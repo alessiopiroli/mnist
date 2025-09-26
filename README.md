@@ -1,7 +1,6 @@
 # MNIST PyTorch Digit Recognizer
 This project implements a system to recognize handwritten digits using a Convlutional Neural Network (CNN) in PyTorch.
 It includes:
-- A custom dataset class to provide the data
 - A CNN architecture with two convolutional layers
 - Training and evaluations scripts with GPU support
 - An interactive GUI that loads the trained model and lets you draw a digit with your mouse to see real-time prediction
