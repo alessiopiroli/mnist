@@ -28,7 +28,7 @@ python src/train.py
 ```
 
 ### Testing
-Run the `train.py` script to launch the interactive application. This will load the trained `mnist_cnn.pth` file and open a window.
+Run the `train.py` script to launch the interactive application. This will load the trained `mnist_cnn.pth` model and open a window.
 ```bash
 python src/test.py
 ```
